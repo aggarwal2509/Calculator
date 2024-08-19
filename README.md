@@ -1,1 +1,2 @@
 # Codsooft
+This program will first print a menu with the available operations. It will then ask the user to input their choice of operation. If the input is valid, it will ask for two numbers and perform the chosen operation on them. If the user chooses division, it will check if the second number is zero to avoid a division by zero error. If the user's input is not one of the four options, it will print an error message.
